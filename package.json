@@ -9,7 +9,8 @@
     "restart": "pm2 restart DARK-MATTER-XMD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.8",
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+
     "@adiwajshing/keyed-db": "^0.2.4",
     "@distube/ytdl-core": "^4.16.4",
     "@dark-yasiya/yt-dl.js": "latest",
